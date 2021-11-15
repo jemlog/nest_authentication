@@ -7,7 +7,7 @@ pipeline {
     stage("build") {
         
       steps {
-        echo 'building...'
+        echo 'building hello new change'
       }
   }
      stage("test") {
